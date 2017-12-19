@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 19 16:49:53 IST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0160-6e80-5443-000000a28f58 
+on database directory D:\appTest\Good_ReaderDB with class loader java.net.URLClassLoader@14ae5a5 
+Loaded from jar:rsrc:derby.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=D:\appTest
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
